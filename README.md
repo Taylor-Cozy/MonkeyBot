@@ -9,4 +9,4 @@ Good Question, this is a pretty poor bot - it doens't do all that much at the mo
 ## How do I add this bot to my server?
 [Follow this link](https://discord.com/oauth2/authorize?client_id=800851910550093854&scope=bot) to add the bot to your server. It currently isn't hosted anywhere so you're at my will in regards to whether the bot is up or not.
 
-If you do want to host this yourself you'll need to edit the envExample.txt file and replace enter your own discord API bot key and TENOR key and save the envExample file as '.env'
+If you do want to host this yourself you'll need to edit the envExample.txt file and enter your own discord API bot key and TENOR key and save the envExample file as '.env'
